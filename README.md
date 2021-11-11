@@ -49,33 +49,33 @@ Future Implementations
 ScreenShots
 ---------------
 
-<img src="images/Capture.PNG" width="960" height="540" >
+<img src="images/Capture.PNG" width="960" height="580" >
 
-<img src="images/Capture1.PNG" width="960" height="540" >
+<img src="images/Capture1.PNG" width="960" height="580" >
 
-<img src="images/Capture2.PNG" width="960" height="540" >
+<img src="images/Capture2.PNG" width="960" height="580" >
 
-<img src="images/Capture3.PNG" width="960" height="540" >
+<img src="images/Capture3.PNG" width="960" height="580" >
 
-<img src="images/Capture5.PNG" width="960" height="540" >
+<img src="images/Capture5.PNG" width="960" height="580" >
 
-<img src="images/Capture6.PNG" width="960" height="540" >
+<img src="images/Capture6.PNG" width="960" height="580" >
 
-<img src="images/Capture8.PNG" width="960" height="540" >
+<img src="images/Capture8.PNG" width="960" height="580" >
 
-<img src="images/Capture9.PNG" width="960" height="540" >
+<img src="images/Capture9.PNG" width="960" height="580" >
 
-<img src="images/Capture10.PNG" width="960" height="540" >
+<img src="images/Capture10.PNG" width="960" height="580" >
 
-<img src="images/Capture11.PNG" width="960" height="540" >
+<img src="images/Capture11.PNG" width="960" height="580" >
 
-<img src="images/Capture13.PNG" width="960" height="540" >
+<img src="images/Capture13.PNG" width="960" height="580" >
 
-<img src="images/Capture14.PNG" width="960" height="540" >
+<img src="images/Capture14.PNG" width="960" height="580" >
 
-<img src="images/Capture142.PNG" width="960" height="540" >
+<img src="images/Capture142.PNG" width="960" height="580" >
 
-<img src="images/Capture15.PNG" width="960" height="540" >
+<img src="images/Capture15.PNG" width="960" height="580" >
 
 
 
